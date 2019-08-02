@@ -1,0 +1,59 @@
+*{
+    box-sizing: border-box;
+    text-align: center;
+}
+
+body {
+    background-image: url(https://static.carthrottle.com/workspace/uploads/posts/2016/04/9f82f330c0e4cf13389950a9daf7c693.jpg);
+    background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-position: center; 
+  background-size: cover;
+}
+
+
+h1 {
+    font-family: 'Antic', sans-serif;
+    color: red;
+    text-shadow: 3px 3px black;
+}
+
+
+.container-fluid {
+    margin: 25px;
+    margin-left: 25px;
+
+}
+
+
+
+button {
+    display: inline-block;
+    font-size: 25px;
+    margin: 5px;
+
+
+}
+
+
+
+#addtext {
+    font-size: 30px;
+    font-family: 'Boogaloo', cursive;
+    color: red;
+    text-shadow: 2px 2px black;
+
+}
+
+
+.newItem {
+    display: block;
+    float: left;
+    margin: 20px;
+
+}
+
+
+.row {
+    margin-right: 35px;
+}
